@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Домашнее задание 4</string>
-    <string name="btn" translatable="false">Перейти на 2 активити</string>
-    <string name="btnSet1Img" translatable="false">Выбрать 1 изображение</string>
-    <string name="btnSet2Img" translatable="false">Выбрать 2 изображение</string>
-    <string name="btnSet3Img" translatable="false">Выбрать 3 изображение</string>
+    <string name="app_name">HomeWork8</string>
+    <string name="title_notification">Message</string>
+    <string name="send_notification">Send notification</string>
 </resources>
